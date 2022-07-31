@@ -1,0 +1,4 @@
+Compressing Data [[bing]]..
+6Writing user-data in json file to store name = Kishan
+!De-compressing Data <<bowing>>..
+{"user":{"name":"Kishan"}}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DecoratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-24T11:13:08" hostname="OF060DR59ZMD6NR" time="0.015">
+  <properties/>
+  <testcase name="CompressionDecoratorTest()" classname="DecoratorTest" time="0.015"/>
+  <system-out><![CDATA[Compressing Data [[bing]]..
+Writing user-data in json file to store name = Kishan
+De-compressing Data <<bowing>>..
+{"user":{"name":"Kishan"}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
